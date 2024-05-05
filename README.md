@@ -1,2 +1,2 @@
-# 浙江大学计算机系统 - XPart 
-将软件实验实现的 OS 编译并运行在 CPU ，完整实现 RV64I 指令集、动态分支预测、Cache、MMU 以及 S 态中断处理的功能
+# ZJU Computer System Course - XPart 
+Compile and run the OS implemented in the software experiment on the self-designed CPU, fully implementing the functions of RV64I instruction set, dynamic branch prediction, Cache, MMU, and S-state interrupt processing.
